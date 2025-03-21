@@ -71,4 +71,9 @@ flowsuite-server/
 - **Client:** Coming Soon
 - **API:** Coming Soon
 
+## 🚀 TypeScript Version (Coming Soon)
+
+I am currently working on a **TypeScript version** of FlowSuite to improve type safety and maintainability. It will be available in the future.
+
+
 ---
