@@ -42,7 +42,6 @@ The API will be available at: [http://localhost:3000/](http://localhost:3000/)
 - **Backend:** Node.js + Express
 - **Database:** MongoDB + Mongoose
 - **Authentication:** JWT
-- **Validation:** Express Validator
 
 ### 🏗 Project Structure
 
